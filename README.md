@@ -20,6 +20,4 @@
     </tr>
 </table>
 
-<br>
-<br>
 <hr>
