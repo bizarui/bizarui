@@ -7,19 +7,15 @@
 
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
     <tr>
-        <td valign="top" style="border: none; padding-right: 20px;">
-            <div>
-                <h3 style="font-size: 1.5em; margin-bottom: 10px;">About me</h3>
-                <p style="font-size: 1.1em; line-height: 1.5;">I use arch, btw - I am femboy</p>
-            </div>
+        <td width="65%" valign="top" style="border: none;">
+            <h1>About me</h1>
+            <br>
+            <h3>I use arch, btw - I am femboy</h3>
         </td>
-        <td valign="top" align="right" style="border: none; padding-left: 20px;">
-            <div>
-                <h3 style="font-size: 1.5em; margin-bottom: 15px; text-align: right;">Tech Stack</h3>
-                <div style="font-size: 1.2em; letter-spacing: 4px;">
-                    <code>C#</code> <code>HTML</code> <code>CSS</code>
-                </div>
-            </div>
+        <td width="35%" valign="top" align="right" style="border: none;">
+            <h1>Tech Stack</h1>
+            <br>
+            <h2><code>C#</code> &nbsp;&nbsp; <code>HTML</code> &nbsp;&nbsp; <code>CSS</code></h2>
         </td>
     </tr>
 </table>
