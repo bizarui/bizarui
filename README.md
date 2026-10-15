@@ -1,9 +1,9 @@
-<div>
+<div align="center">
     <h3>About me</h3>
     <p> i am user arch linux</p>
 </div>
 
-<div>
+<div align="center">
     <h3>Tech Stack</h3>
     <ul>
         <li>C#</li>
