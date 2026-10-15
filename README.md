@@ -5,13 +5,11 @@
 <hr>
 
 ## About me
-I use arch, btw - I am femboy
+### I use arch, btw - I am femboy
 
-<br>
 <hr>
 
 ## Tech Stack
-`C#` &nbsp;&nbsp; `HTML` &nbsp;&nbsp; `CSS`
+# `C#` &nbsp;&nbsp; `HTML` &nbsp;&nbsp; `CSS`
 
-<br>
 <hr>
