@@ -10,19 +10,17 @@
         <td width="50%" valign="top" style="border: none; padding-right: 40px;">
             <div>
                 <h3>About me</h3>
-                <p>I am a developer and an active user of <b>Arch Linux</b>. I focus on software development, system configuration, and scripting.</p>
+                <p>I use arch, btw - I am femboy</p>
             </div>
         </td>
         <td width="50%" valign="top" style="border: none; padding-left: 40px;">
             <div>
                 <h3>Tech Stack</h3>
-                <p><b>Languages & Technologies:</b></p>
                 <code>C#</code> &nbsp; <code>HTML</code> &nbsp; <code>CSS</code>
             </div>
         </td>
     </tr>
 </table>
 
-<br>
 <br>
 <hr>
