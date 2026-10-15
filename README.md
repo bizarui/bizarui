@@ -15,7 +15,7 @@
         <td width="45%" valign="top" style="border: none; padding-left: 30px;">
             <h2>Tech Stack</h2>
             <br>
-            <h3>`C#` &nbsp;&nbsp; `HTML` &nbsp;&nbsp; `CSS`</h3>
+            <h3><code>C#</code> &nbsp;&nbsp; <code>HTML</code> &nbsp;&nbsp; <code>CSS</code></h3>
         </td>
     </tr>
 </table>
